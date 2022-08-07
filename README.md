@@ -1,4 +1,4 @@
-<code>👨‍🔬 [Engineer](https://www.linkedin.com/in/maksym-shenderuk/) </code>
+<code>👨‍🔬 [Engineer](https://www.linkedin.com/in/maksym-shenderuk/)</code>
 <code>⬢ Backend Developer at [LP-CRM](https://lp-crm.biz/)</code>
 <code>🎓 Education: KNU / Master Degree</code>
 <code>👷 Speciality: Software engineer</code><br>
