@@ -6,7 +6,7 @@
 </br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C#</code>
-<code>📦 Tech stack: Node.js, Express.js, PostgreSQL</code>
+<code>📦 Tech stack: Node.js, PostgreSQL</code>
 </br>
 <code>💬 telegram: [@Jaood_xD](https://telegram.me/Jaood_xD)</code>
 <code>📫 [jaood96@gmail.com](mailto:jaood96@gmail.com)</code>
