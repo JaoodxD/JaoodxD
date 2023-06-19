@@ -4,7 +4,6 @@
 <code>🎓 Education: KNU / Master Degree</code>
 <code>👷 Speciality: Software engineer</code>
 </br>
-<code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C#</code>
 <code>📦 Tech stack: Node.js, .NET, PostgreSQL</code>
 </br>
