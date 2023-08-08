@@ -6,6 +6,3 @@
 </br>
 <code>🧑‍💻 Languages: JavaScript, C#</code>
 <code>📦 Tech stack: Node.js, .NET, PostgreSQL</code>
-</br>
-<code>💬 telegram: [@Jaood_xD](https://telegram.me/Jaood_xD)</code>
-<code>📫 [jaood96@gmail.com](mailto:jaood96@gmail.com)</code>
